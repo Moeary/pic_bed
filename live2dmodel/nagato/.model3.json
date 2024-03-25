@@ -2,9 +2,9 @@
   "Version": 3,
   "Type": 0,
   "FileReferences": {
-    "Moc": "FileReferences_Moc_0.moc3",
+    "Moc": "https:\/\/cdn.jsdelivr.net/gh/Moeary/pic_bed/live2dmodel/nagato/FileReferences_Moc_0.moc3",
     "Textures": [
-      "FileReferences_Textures_0_0.png"
+      "https:\/\/cdn.jsdelivr.net/gh/Moeary/pic_bed/live2dmodel/nagato/FileReferences_Textures_0_0.png"
     ],
     "PhysicsV2": {}
   },
